@@ -15,7 +15,7 @@
 }
 
 .small {
-  padding: 5px 7px;
+  padding: 16px 16px;
 }
 
 .display {
@@ -27,6 +27,6 @@
   font-family: 'Fira Mono', monospace;
 }
 
-.button1 {background-color: #000000}; /* Black */
+.button1 {background-color: #000000;} /* Black */
 
-.button2 {background-color: #30a040}; /* Green */
+.button2 {background-color: #305040;} /* Green */
